@@ -7,7 +7,13 @@ Real-time predicting of stochastic waves is crucial in marine engineering. In th
 <p align="center">
 <img src=".\img\DeepWP_structure.jpg" height = "320" alt="" align=center />
 <br><br>
-<b>Figure 1.</b>  Schematic diagram of the structure of the Deep-WP model.
+<b>Figure 1.</b> Schematic diagram of the structure of the Deep-WP model.
+</p>
+
+<p align="center">
+<img src=".\img\covariates.jpg" height = "360" alt="" align=center />
+<br><br>
+<b>Figure 2.</b> The architecture of Informer.
 </p>
 
 ## <span id="citelink">Citation</span> 
