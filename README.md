@@ -12,7 +12,7 @@ Real-time predicting of stochastic waves is crucial in marine engineering. In th
 </p>
 
 <p align="center">
-<img src=".\img\covariates.jpg" height = "360" alt="" align=center />
+<img src=".\img\covariates.jpg" height = "480" alt="" align=center />
 <br><br>
 <b>Figure 2.</b> Covariates.
 </p>
