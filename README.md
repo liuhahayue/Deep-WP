@@ -38,3 +38,6 @@ author = {Yue Liu and
           Tao Peng},
 }
 ```
+
+## Contact
+If you have any questions, feel free to contact Yue Liu through Email (liuhahayue@gmain.com) or Github issues. Pull requests are highly welcomed!
