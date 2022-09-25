@@ -40,4 +40,4 @@ author = {Yue Liu and
 ```
 
 ## Contact
-If you have any questions, feel free to contact Yue Liu through Email (liuhahayue@gmain.com) or Github issues. Pull requests are highly welcomed!
+If you have any questions, feel free to contact Yue Liu through Email (liuhahayue@gmail.com) or Github issues. Pull requests are highly welcomed!
