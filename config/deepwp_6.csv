@@ -1,6 +1,0 @@
-algorithm;N;d_hidden;kernel_size;dropout;covariate_mode;in_progress;learning_rate;batch_size;seed;score;n_lag;n_seq;sub
-deepwp;3;40;0;0.1;1;-1.0;0.001;64;0;;18;6;1 
-deepwp;3;40;0;0.1;2;-1.0;0.001;64;0;;18;6;1 
-deepwp;3;40;0;0.1;3;-1.0;0.001;64;0;;18;6;1 
-deepwp;3;40;0;0.1;4;-1.0;0.001;64;0;;18;6;1 
-deepwp;3;40;0;0.1;5;-1.0;0.001;64;0;;18;6;1 
